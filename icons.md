@@ -26,3 +26,6 @@ amy: https://imgur.com/aQ4ztZ3
 antiprof: https://imgur.com/6ZCfujM
 barbadosSlim: https://imgur.com/LvV7D0g
 bender: https://imgur.com/iP95jJx
+
+background wallpaper: https://www.imgbase.info/images/safe-wallpapers/cartoons/futurama/44893_futurama_futurama_intro.jpg
+alt: https://imgur.com/7HK9RFA
