@@ -2,7 +2,8 @@
     width: 100%;
     text-align: right;
     font-size: 2rem;
-    color: rgb(8, 88, 179);
+    color: rgb(255, 0, 0);
+    outline-color: #fafe20;
     margin-bottom: 50px;
     padding-left: 3%;
     padding-right: 3%;  

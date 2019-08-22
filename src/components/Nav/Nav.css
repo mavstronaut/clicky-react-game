@@ -9,12 +9,13 @@ nav {
 }
 
 a {
-    color: #2080fe;
+    color: rgb(255, 0, 0);
+    outline-color: #fafe20;
 }
 
 a:hover {
-    color: #2080fe;
-    outline-color: #fe2020;
+    color: #fe2020;
+    outline-color: #fafe20;
     text-decoration: none;
 }
 
