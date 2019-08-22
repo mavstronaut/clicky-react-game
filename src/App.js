@@ -16,3 +16,70 @@ function shuffleFriends(array) {
   }
   return array;
 }
+
+class App extends Component {
+  state = {
+    friends,
+    currentScore: 0,
+    topScore: 0,
+    rightWrong: "",
+    clicked: []
+  };
+
+  handleClick = id => {
+    if (this.state.clicked.indexOf(id) === -1) {
+      this.handleIncrement();
+      this.setState({ clicked: this.state.clicked.concat(id) });
+    } else {
+      this.handleReset();
+    }
+  };
+
+  handleIncrement = () => {
+    const newScore = this.state.currentScore + 1;
+    this.setState({
+      currentScore: newScore,
+      rightWrong: ""
+    });
+    if (newScore >= this.state.topScore) {
+      this.setState({ topScore: newScore });
+    } else if (newScore === 24) {
+      this.setState({ rightWrong: "You Win!" });
+    }
+    this.handleShuffle();
+  };
+
+  handleReset = () => {
+    this.setState({
+      currentScore: 0,
+      topScore: this.state.topScore,
+      rightWrong: "Good News!",
+      clicked: []
+    });
+    this.handleShuffle();
+  };
+
+  handleShuffle = () => {
+    let shuffledFriends = shuffleFriends(friends);
+    this.setState({ friends: shuffledFriends });
+  };
+
+  render() {
+    return (
+      <Wrapper>
+        <Nav
+          title="Futurama Clicky Game"
+          score={this.state.currentScore}
+          topScore={this.state.topScore}
+          rightWrong={this.state.rightWrong}
+        />
+
+        
+      </Wrapper>
+    )
+  }
+
+
+};
+
+export default App;
