@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3a68c9b0144747acf5685bfdcf63546",
+    "revision": "5c302c2832e6d62accfefb09e79520da",
     "url": "/Futurama-Clickorama-Game/index.html"
   },
   {
-    "revision": "c80765e5326b76b1161a",
-    "url": "/Futurama-Clickorama-Game/static/css/main.3c0dc81e.chunk.css"
+    "revision": "8345b0664dd028c20e4a",
+    "url": "/Futurama-Clickorama-Game/static/css/main.96421cf2.chunk.css"
   },
   {
     "revision": "e081d685ba5708eef6a3",
     "url": "/Futurama-Clickorama-Game/static/js/2.e2ea5766.chunk.js"
   },
   {
-    "revision": "c80765e5326b76b1161a",
+    "revision": "8345b0664dd028c20e4a",
     "url": "/Futurama-Clickorama-Game/static/js/main.3d08a0e0.chunk.js"
   },
   {
