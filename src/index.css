@@ -1,4 +1,4 @@
-body {
+* {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -7,4 +7,10 @@ body {
 
 code {
   font-family: 'Luckiest Guy', cursive;
+}
+
+html, body, #root {
+PADDING: 0;
+margin: 0;
+height: 100%;
 }

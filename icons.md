@@ -1,0 +1,31 @@
+zaff: https://imgur.com/3AhlKFQ
+calculon: https://imgur.com/guO4mC5    
+chef: https://imgur.com/mOgzkx8
+cop: https://imgur.com/tGCEEks
+dumb1: https://imgur.com/wWnfuHf
+dumb2: https://imgur.com/LYXh8lA
+dumb3: https://imgur.com/NPT1Ehp
+fry: https://imgur.com/WY0HOnk
+globe: https://imgur.com/DARqLJt
+hedonist: https://imgur.com/7eyzuBX
+hermes: https://imgur.com/CYs9Vib
+hypno: https://imgur.com/RiBSq44
+kiff: https://imgur.com/qhkj22g
+leela: https://imgur.com/52GDT38
+lrr: https://imgur.com/m1aByLY
+mom: https://imgur.com/EW5UprA
+news: https://imgur.com/7qtuOvl
+nibbler: https://imgur.com/JtynTTj
+professor: https://imgur.com/TtuxHRA
+roberto: https://imgur.com/tY1imQI
+robodevil: https://imgur.com/JUmfqDf
+scruffy: https://imgur.com/JD1rsJZ
+smarty: https://imgur.com/Cwj9l5m
+zoidberg: https://imgur.com/YM9YaVq
+amy: https://imgur.com/aQ4ztZ3
+antiprof: https://imgur.com/6ZCfujM
+barbadosSlim: https://imgur.com/LvV7D0g
+bender: https://imgur.com/iP95jJx
+
+background wallpaper: https://www.imgbase.info/images/safe-wallpapers/cartoons/futurama/44893_futurama_futurama_intro.jpg
+alt: https://imgur.com/7HK9RFA

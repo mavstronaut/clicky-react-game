@@ -1,0 +1,11 @@
+.wrapper {
+    background: rgb(0, 140, 255);
+    background-image: url('https://imgur.com/7HK9RFA');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
