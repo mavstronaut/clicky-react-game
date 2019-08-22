@@ -74,11 +74,30 @@ class App extends Component {
           rightWrong={this.state.rightWrong}
         />
 
-        
-      </Wrapper>
-    )
-  }
+        <Title>
+          Click each character, but don't touch them twice or you'll be subjected to Brannigan's Law.
+        </Title>
 
+        <Container>
+          <Row>
+            {this.state.friends.map(friend => (
+              <Column size="md-3 sm-6">
+                <FriendCard
+                  key={friend.id}
+                  handleClick={this.handleClick}
+                  handleIncrement={this.handleIncrement}
+                  handleReset={this.handleReset}
+                  handleShuffle={this.handleShuffle}
+                  id={friend.id}
+                  image={friend.image}
+                  />
+              </Column>
+            ))}
+          </Row>
+        </Container>
+      </Wrapper>
+    );
+  }
 
 };
 
