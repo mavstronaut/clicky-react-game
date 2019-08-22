@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clicky-react-game/static/css/main.3c0dc81e.chunk.css",
-    "main.js": "/clicky-react-game/static/js/main.34e60c05.chunk.js",
-    "main.js.map": "/clicky-react-game/static/js/main.34e60c05.chunk.js.map",
-    "runtime~main.js": "/clicky-react-game/static/js/runtime~main.a3bc75db.js",
-    "runtime~main.js.map": "/clicky-react-game/static/js/runtime~main.a3bc75db.js.map",
-    "static/js/2.e2ea5766.chunk.js": "/clicky-react-game/static/js/2.e2ea5766.chunk.js",
-    "static/js/2.e2ea5766.chunk.js.map": "/clicky-react-game/static/js/2.e2ea5766.chunk.js.map",
-    "index.html": "/clicky-react-game/index.html",
-    "precache-manifest.8cc7da0c0d5cce8cbd7ce2d25a173ec6.js": "/clicky-react-game/precache-manifest.8cc7da0c0d5cce8cbd7ce2d25a173ec6.js",
-    "service-worker.js": "/clicky-react-game/service-worker.js",
-    "static/css/main.3c0dc81e.chunk.css.map": "/clicky-react-game/static/css/main.3c0dc81e.chunk.css.map"
+    "main.css": "/Futurama-Clickorama-Game/static/css/main.3c0dc81e.chunk.css",
+    "main.js": "/Futurama-Clickorama-Game/static/js/main.3d08a0e0.chunk.js",
+    "main.js.map": "/Futurama-Clickorama-Game/static/js/main.3d08a0e0.chunk.js.map",
+    "runtime~main.js": "/Futurama-Clickorama-Game/static/js/runtime~main.c46035a3.js",
+    "runtime~main.js.map": "/Futurama-Clickorama-Game/static/js/runtime~main.c46035a3.js.map",
+    "static/js/2.e2ea5766.chunk.js": "/Futurama-Clickorama-Game/static/js/2.e2ea5766.chunk.js",
+    "static/js/2.e2ea5766.chunk.js.map": "/Futurama-Clickorama-Game/static/js/2.e2ea5766.chunk.js.map",
+    "index.html": "/Futurama-Clickorama-Game/index.html",
+    "precache-manifest.9096771e70a32da2253781f053f16ec0.js": "/Futurama-Clickorama-Game/precache-manifest.9096771e70a32da2253781f053f16ec0.js",
+    "service-worker.js": "/Futurama-Clickorama-Game/service-worker.js",
+    "static/css/main.3c0dc81e.chunk.css.map": "/Futurama-Clickorama-Game/static/css/main.3c0dc81e.chunk.css.map"
   }
 }
