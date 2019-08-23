@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Futurama-Clickorama-Game/static/css/main.96421cf2.chunk.css",
+    "main.css": "/Futurama-Clickorama-Game/static/css/main.dc07b2ba.chunk.css",
     "main.js": "/Futurama-Clickorama-Game/static/js/main.3d08a0e0.chunk.js",
     "main.js.map": "/Futurama-Clickorama-Game/static/js/main.3d08a0e0.chunk.js.map",
     "runtime~main.js": "/Futurama-Clickorama-Game/static/js/runtime~main.c46035a3.js",
@@ -8,8 +8,8 @@
     "static/js/2.e2ea5766.chunk.js": "/Futurama-Clickorama-Game/static/js/2.e2ea5766.chunk.js",
     "static/js/2.e2ea5766.chunk.js.map": "/Futurama-Clickorama-Game/static/js/2.e2ea5766.chunk.js.map",
     "index.html": "/Futurama-Clickorama-Game/index.html",
-    "precache-manifest.6a603a0623ce833aafc4ea12f4509051.js": "/Futurama-Clickorama-Game/precache-manifest.6a603a0623ce833aafc4ea12f4509051.js",
+    "precache-manifest.890391cae3a288bc7e2903a4e07324d0.js": "/Futurama-Clickorama-Game/precache-manifest.890391cae3a288bc7e2903a4e07324d0.js",
     "service-worker.js": "/Futurama-Clickorama-Game/service-worker.js",
-    "static/css/main.96421cf2.chunk.css.map": "/Futurama-Clickorama-Game/static/css/main.96421cf2.chunk.css.map"
+    "static/css/main.dc07b2ba.chunk.css.map": "/Futurama-Clickorama-Game/static/css/main.dc07b2ba.chunk.css.map"
   }
 }

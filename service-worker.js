@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Futurama-Clickorama-Game/precache-manifest.6a603a0623ce833aafc4ea12f4509051.js"
+  "/Futurama-Clickorama-Game/precache-manifest.890391cae3a288bc7e2903a4e07324d0.js"
 );
 
 self.addEventListener('message', (event) => {
